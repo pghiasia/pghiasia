@@ -5,7 +5,6 @@
 - 📫 How to reach me  **Email:** pghiasia@uwaterloo.ca   **LinkedIn:** https://www.linkedin.com/in/parsaghiasian/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can recite the first 150 digits of Pi!! 🥧🥧  
-- 
 
 <!---
 pghiasia/pghiasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
